@@ -1,8 +1,8 @@
-# Ultrasonic-range-sensor-serial-esp32
-briidea HRWL-01W Ultrasonic range sensor for (water) tank.
+# Range-sensor-serial-esp32
+briidea HRWL-01W range sensor for (water) tank.
 
 briidea HRWL-01W used for freshwater tank in camper.
-Ultrasonic range sensor for water tank.
+Infrared range sensor for water tank.
 7-32V DC
 The display device saves Min Max values, after power was cut off.
 The display has 10 LED's (10% steps)
@@ -33,7 +33,7 @@ Below is a fully functioning test program that will be imported into a Camper-Mo
 
 
 ## Important:
-The ultrasonic sensor needs to stay free of water drops and mist. I use a coating against mist with success.
+The sensor needs to stay free of water drops and mist. I use a coating against mist with success.
 
 As you have to drill a hole into the watertank, it is important to seal it with the sensor. However the tine rubber seal is not able to seal properly.
 
