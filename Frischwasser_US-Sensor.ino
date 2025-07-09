@@ -1,10 +1,10 @@
 /*
 briidea HRWL-01W Frischwassertankanzeige
-Ultrasonic range sensor for water tank.
+Infrared Range sensor for water tank.
 7-32V DC
 The display device saves Min Max values, after power was cut off.
 The display has 10 LED's (10% steps)
-The sensor is ultrasonic and works in the range up to 400mm.
+The sensor seems to work with infrared in the range up to 400mm.
 
 Communication between the sensor and display is via 4 pin serial cable.
 The parameters are: 9600 baud, 8 bits, No parity, 1 stop bit
@@ -29,7 +29,7 @@ Below is a fully functioning test program that will be imported into a Camper-Mo
 
 
 Important:
-The ultrasonic sensor needs to stay free of water drops and mist. I use a coating against mist with quite success.
+The sensor needs to stay free of water drops and mist. I use a coating against mist with quite success.
 As you have to drill a hole into the watertank, it is important to seal it with the sensor. However the tine rubber seal is not able to seal properly.
 But any DIY will carry rubber seals in the plumping section. I used Dekaseal 8936 on both sides 
 The sensor has a thread and a nut unlike other sensors.
